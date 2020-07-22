@@ -1,6 +1,6 @@
 /*
- * Cloud code for "nemp-nsw-dev" connected to the "nemp_dev_nsw" MongoLab DB deployed on Heroku
- * Git repo: 				https://github.com/grassland-curing-cfa/NempParseServerNSW
+ * Cloud code for "nemp-nsw-dev" connected to the "nemp_dev_nsw" MongoLab DB deployed on Heroku: Parse-server 3.0 Upgrade
+ * Git repo: 				https://github.com/grassland-curing-cfa/NempParseServerNSW_DevUpgrade
  * Initial checkin date: 	23/02/2016
  * Following-up check date:	13/07/2016
 							18/07/2016
