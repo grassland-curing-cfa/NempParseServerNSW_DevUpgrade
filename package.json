@@ -1,18 +1,18 @@
 {
-  "name": "NempParseServerNSW",
+  "name": "NempParseServerNSW_DevUpgrade",
   "version": "1.4.0",
   "description": "An example Parse API server using the parse-server module for NEMP NSW",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grassland-curing-cfa/NempParseServerNSW"
+    "url": "https://github.com/grassland-curing-cfa/NempParseServerNSW_DevUpgrade.git"
   },
   "license": "MIT",
   "dependencies": {
     "express": "~4.11.x",
     "kerberos": "~0.0.x",
     "parse": "~1.8.0",
-    "parse-server": "~2.8.4",
+    "parse-server": "*",
     "underscore": "~1.8.3",
     "mailgun-js": "^0.7.7",
     "cors": "*",
